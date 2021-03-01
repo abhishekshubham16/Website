@@ -1,0 +1,15 @@
+.header {
+  height: 700px;
+  width: 100%;
+  background-image: url(bird.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header h1 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #e3dcd5;
+  margin-top: 300px;
+  text-align: center;
+}
